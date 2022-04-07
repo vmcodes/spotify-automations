@@ -80,4 +80,5 @@ export const characters: string[] = [
   "8",
   "9",
   "!",
+  "|",
 ];
